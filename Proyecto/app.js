@@ -1,0 +1,1 @@
+import "./componentes/propuct-card.js";
